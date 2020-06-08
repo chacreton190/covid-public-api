@@ -1,2 +1,2 @@
-state,notes,covid19Site,covid19SiteSecondary,twitter,covid19SiteOld,pui,pum,name,fips
-RI,Recovered numbers are from hospital discharges.,https://health.ri.gov/data/covid-19/,,@rihealth,https://health.ri.gov/diseases/respiratory/?parm=163,All data,false,Rhode Island,44
+state,notes,covid19Site,covid19SiteSecondary,covid19SiteTertiary,twitter,covid19SiteOld,pui,pum,name,fips
+RI,Recovered numbers are from hospital discharges.,https://health.ri.gov/data/covid-19/,,,@rihealth,https://health.ri.gov/diseases/respiratory/?parm=163,All data,false,Rhode Island,44
