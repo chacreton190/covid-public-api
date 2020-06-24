@@ -23,6 +23,7 @@ Type Volunteers {
 
 Type Us {
   date: Int
+  states: Int
   positive: Int
   negative: Int
   pending: Int
@@ -377,6 +378,10 @@ Type States {
   positiveScore: Int
   score: Int
   grade: String
+  totalTestsViral: Int
+  positiveTestsViral: Int
+  negativeTestsViral: Int
+  positiveCasesViral: Int
 }
 
 Type Status {
