@@ -178,7 +178,7 @@
 	"fips": "66",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "People",
+	"totalTestResultsUnits": "Unclear Units",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "HI",
@@ -542,7 +542,7 @@
 	"fips": "39",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "Specimens",
+	"totalTestResultsUnits": "Unclear units",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "OK",
@@ -584,7 +584,7 @@
 	"fips": "42",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "Specimens",
+	"totalTestResultsUnits": "Unclear units",
 	"totalTestResultsColumns": "totalTestsViral"
 }, {
 	"state": "PR",
@@ -710,7 +710,7 @@
 	"fips": "78",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "Specimens",
+	"totalTestResultsUnits": "Unclear units",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "VT",
