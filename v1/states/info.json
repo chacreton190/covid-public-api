@@ -697,7 +697,7 @@
 	"pui": "",
 	"pum": false,
 	"totalTestResultsUnits": "Encounters",
-	"totalTestResultsColumns": "posNeg"
+	"totalTestResultsColumns": "totalTestEncountersViral"
 }, {
 	"state": "VI",
 	"notes": "Total PCR tests in the Virgin Islands is the sum of **Positive PCR tests**, **Negative PCR tests**, and **Pending tests**.",
@@ -739,7 +739,7 @@
 	"pui": "",
 	"pum": false,
 	"totalTestResultsUnits": "Encounters",
-	"totalTestResultsColumns": "posNeg"
+	"totalTestResultsColumns": "totalTestEncountersViral"
 }, {
 	"state": "WI",
 	"notes": "On March 30, 2020, Wisconsin revised its cumulative **Negative PCR tests (people)** data downward without explanation.\n\nIn early June of 2020, Wisconsin started reporting probable cases of COVID-19 separately from confirmed cases of COVID-19. On June 25, 2020, The COVID Tracking Project added more than two weeks' worth of probable cases to our **Cases (confirmed plus probable)** for WI, initially causing a large single day increase in cases. We subsequently updated our historical Cases data using data provided to us by the state, which eliminated this one-day increase.\n\nIn early June of 2020, Wisconsin started reporting probable deaths from COVID-19 separately from confirmed deaths from COVID-19. We did not discover this data until June 29, 2020, and so our time series only has data for this metric beginning on that date.\n",
