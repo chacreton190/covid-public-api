@@ -108,7 +108,7 @@
 	"fips": "09",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "People",
+	"totalTestResultsUnits": "Specimens",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "DC",
@@ -178,7 +178,7 @@
 	"fips": "66",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "Specimens",
+	"totalTestResultsUnits": "People",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "HI",
@@ -654,7 +654,7 @@
 	"fips": "47",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "People",
+	"totalTestResultsUnits": "Specimens",
 	"totalTestResultsColumns": "posNeg"
 }, {
 	"state": "TX",
