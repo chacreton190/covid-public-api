@@ -122,8 +122,8 @@
 	"fips": "11",
 	"pui": "",
 	"pum": false,
-	"totalTestResultsUnits": "People",
-	"totalTestResultsColumns": "totalTestsPeopleViral"
+	"totalTestResultsUnits": "Encounters",
+	"totalTestResultsColumns": "totalTestsEncountersViral"
 }, {
 	"state": "DE",
 	"notes": "On April 11, 2020, Delaware revised down negative test results from 10,415 to 9,624.\n\nOn July 25, 2020, Delaware revised down total cases, confirmed positives, and total tests.\n\nOn August 27, 2020, Delaware revised down total cases and confirmed positives. This is a semi-regular occurrence which will impact Delware's number occasionally. ",
